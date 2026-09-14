@@ -1,4 +1,5 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,guaman-poma-nueva,0.4999999999999999,0.49999999999999983,1,,What is the image depicting?,"This image is a map, that depicts native native Andean Hierarchy and global order. At the top of the image, the Indies of Peru and at the bottom Kingdom of Castile.",,Where is it found?,the-indies-of-where-is-this.md,Why was it created?,the-indies-of-why-was-it.md,,,
-2,,,,,,What does the sun mean?,,,,,,,,,
+1,,,,,,Deciphering Felipe Guaman Poma de Ayala's Pontifical World,,,,,,,,,
+2,guaman-poma-nueva,0.4999999999999999,0.49999999999999983,1,,What is the image depicting?,"This image is a map, that depicts native native Andean Hierarchy and global order. At the top of the image, the Indies of Peru and at the bottom Kingdom of Castile.",,Where is it found?,the-indies-of-where-is-this.md,Why was it created?,the-indies-of-why-was-it.md,,,
+3,guaman-poma-nueva,0.48766991419237016,0.28538200013674464,1.904552352048559,,What is Andean Hierarchy?,,,,,,,,,
